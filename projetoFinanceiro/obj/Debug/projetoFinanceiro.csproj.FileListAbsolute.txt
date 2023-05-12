@@ -1,0 +1,8 @@
+C:\Users\penha\source\repos\projetoFinanceiro\projetoFinanceiro\bin\Debug\projetoFinanceiro.exe.config
+C:\Users\penha\source\repos\projetoFinanceiro\projetoFinanceiro\bin\Debug\projetoFinanceiro.exe
+C:\Users\penha\source\repos\projetoFinanceiro\projetoFinanceiro\bin\Debug\projetoFinanceiro.pdb
+C:\Users\penha\source\repos\projetoFinanceiro\projetoFinanceiro\obj\Debug\projetoFinanceiro.csproj.AssemblyReference.cache
+C:\Users\penha\source\repos\projetoFinanceiro\projetoFinanceiro\obj\Debug\projetoFinanceiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\penha\source\repos\projetoFinanceiro\projetoFinanceiro\obj\Debug\projetoFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\penha\source\repos\projetoFinanceiro\projetoFinanceiro\obj\Debug\projetoFinanceiro.exe
+C:\Users\penha\source\repos\projetoFinanceiro\projetoFinanceiro\obj\Debug\projetoFinanceiro.pdb
